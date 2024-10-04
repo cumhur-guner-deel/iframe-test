@@ -1,0 +1,5 @@
+/current.html
+  Content-Security-Policy: frame-ancestors *
+
+/proposed.html
+  Content-Security-Policy: frame-ancestors *://*
